@@ -13,7 +13,7 @@ const AnyReactComponent = ({ text }) => <div style={{height: "25px",
   display: "inline-block" }}><span style={{color: "#fff", textStyle: "bold", textAlign: "center"}}>{text}</span></div>;
 
 const styles = require("../MapStyles/style.json");
-const apikey = "AIzaSyBg_CQHYbcSq5reiIRgnexI1Un82KVsl5Q";
+const apikey = "YOUR-API-KEY-HERE";
 
 
 class Map extends Component {
